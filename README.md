@@ -1,2 +1,7 @@
 # MyFirstRepository
-Assignment for Dr. B
+Yay!
+
+## Ryn Huesgen 
+
+### STA 445
+This is cool.
